@@ -146,6 +146,7 @@ claimRewards();
 
 ## Contributing
 
+
 We welcome contributions from the community! Whether you're interested in:
 - Adding new features
 - Improving documentation
@@ -162,3 +163,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This is an experimental project. Please use testnet ETH for initial testing and be aware of the risks associated with smart contracts and cryptocurrency. Always conduct thorough testing before deploying to mainnet.
+Contract Address: 0xd2196463091500fE7B5Ab5388EB1bd6C82cB24Ef
